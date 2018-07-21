@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11180-inte
 x-kinRank: "10"
 x-alexaRank: "81093"
 tags: International Trade Administration
-created: "2018-07-20"
-modified: "2018-07-20"
+created: "2018-07-21"
+modified: "2018-07-21"
 url: https://raw.githubusercontent.com/api-stack-providers/international-trade-administration/master/_listings/international-trade-administration/apis.md
 specificationVersion: "0.14"
 apis:
